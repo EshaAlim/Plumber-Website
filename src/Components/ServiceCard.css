@@ -1,0 +1,32 @@
+.service-card {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    transition: 0.3s ease-in-out;
+    border: 2px solid transparent;
+  }
+  .service-card.active {
+    background-color: #007bff;
+    color: white;
+    border-color: #0056b3;
+  }
+  .service-card .icon {
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: #007bff;
+  }
+  .service-card h4 {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  .service-card .features {
+    font-weight: bold;
+    color: #444;
+    margin-bottom: 5px;
+  }
+  .service-card .description {
+    font-size: 14px;
+    color: #333;
+  }
+  

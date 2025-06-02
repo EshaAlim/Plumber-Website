@@ -1,0 +1,57 @@
+.service-container {
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+
+.text-section h1 {
+  font-weight: bold;
+  font-size: 35px;
+}
+h3{
+  color: #000;
+  font-weight: bolder;
+ }
+.highlight {
+  color: #a12dd4;
+}
+.font{
+  font-size: 19px;
+  color: #560ce0;
+  font-weight: 700;
+}
+
+
+.btn-container .btn {
+  padding: 10px 20px;
+  text-transform: uppercase;
+}
+
+
+.plumber-image {
+ width: 400px;
+ height: 400px;
+ 
+  
+}
+.image-border{
+  border: 2px solid rgb(250, 247, 247);
+  padding: 10px;
+  border-radius: 100px;
+  background: linear-gradient(#ffffff, #a4d0ee,#eebce6,#eeeff0)
+ 
+}
+
+
+.contact-form {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+ 
+}
+.contact-form{
+  border: 1px solid black;
+}
+

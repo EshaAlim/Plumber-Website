@@ -1,0 +1,22 @@
+/* src/assets/Services.css */
+.services-container {
+    padding: 40px 0;
+  }
+  .services-container .title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  .services-container .subtitle {
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #555;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .services-container .btn {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+  }
+  
